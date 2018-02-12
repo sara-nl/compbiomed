@@ -1,2 +1,3 @@
 # SURFsara - CompBioMed 
-Git repository for the CompBioMed CoE project
+SURFsara git repository for the CompBioMed CoE project
+
